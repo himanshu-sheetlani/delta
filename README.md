@@ -1,2 +1,2 @@
 # delta
-Demo Repo to learn
+Demo Repo to learn.
